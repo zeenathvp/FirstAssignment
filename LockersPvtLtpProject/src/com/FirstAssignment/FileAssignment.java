@@ -7,7 +7,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class FileAssignment {
-	final static String sMainFolder = "C:\\Users\\raya\\Desktop\\Main";
+	final static String sMainFolder = "C:\\Main";
 
 	public static void main(String[] args) throws IOException {
 				
